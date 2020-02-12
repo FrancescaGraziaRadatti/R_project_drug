@@ -4,11 +4,11 @@
 \name{druguse}
 \alias{druguse}
 \title{Druguse dataset}
-\format{data.frame
+\format{data.frame with 17 observations(rows) and 28 variables(columns).
 \describe{
   \item{age}{age}
   \item{n}{n}
-  \item{alcohol.use}{Percentage of those in an age group who used alcohol in the past 12 months}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}\item{age}{age}
+  \item{alcohol.use}{Percentage of those in an age group who used alcohol in the past 12 months}
   \item{alcohol.frequency}{Median number of times a user in an age group used alcohol in the past 12 months}
   \item{marijuana.use}{Percentage of those in an age group who used marijuana in the past 12 months}
   \item{marijuana.frequency}{Median number of times a user in an age group used marijuana in the past 12 months}
@@ -23,7 +23,7 @@
   \item{inhalant.use}{Percentage of those in an age group who used inhalants in the past 12 months}
   \item{inhalant.frequency}{Median number of times a user in an age group used inhalants in the past 12 months}
   \item{pain.releiver.use}{Percentage of those in an age group who used pain relievers in the past 12 months}
-  \item{pain.releiver.frequency}{Median number of times a user in an age group used pain relievers in the past 12 months}\item{n}{n}\item{n}{n}\item{n}{n}\item{n}{n}\item{n}{n}\item{n}{n}\item{n}{n}
+  \item{pain.releiver.frequency}{Median number of times a user in an age group used pain relievers in the past 12 months}
   \item{oxycontin.use}{Percentage of those in an age group who used oxycontin in the past 12 months}
   \item{oxycontin.frequency}{Median number of times a user in an age group used oxycontin in the past 12 months}
   \item{tranquilizer.use}{Percentage of those in an age group who used tranquilizer in the past 12 months}
@@ -42,6 +42,7 @@
 druguse
 }
 \description{
-The dataset "druguse" provide the data about 13 drugs across 17 age groups.
+The dataset shows data about 13 drugs across 17 age groups.
+It contains real value-data for statistical porpuses.
 }
 \keyword{datasets}

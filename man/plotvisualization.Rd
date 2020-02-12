@@ -4,21 +4,17 @@
 \alias{plotvisualization}
 \title{plotvisualization function}
 \usage{
-plotvisualization(druguse)
-}
-\arguments{
-\item{druguse}{data.frame}
+plotvisualization()
 }
 \value{
-pie chart
+Pie chart
 }
 \description{
 The "plotvisualization" function is a smart way to represent how the drug use is dilueted by crack frequency using "plotly" package.
 It's necessary to import other packages(for istance "magrittr")
 
-The function needs the argument "druguse".
 
-The output is a piechart that show percentage of the crack frequency across the various groups.
+The output is a piechart that shows the percentage of the crack frequency across various age groups.
 }
 \author{
 Francesca Grazia Radatti \email{francescaradatti97@gmail.com}

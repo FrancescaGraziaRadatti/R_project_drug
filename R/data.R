@@ -24,7 +24,7 @@
 #'   \item{inhalant.use}{Percentage of those in an age group who used inhalants in the past 12 months}
 #'   \item{inhalant.frequency}{Median number of times a user in an age group used inhalants in the past 12 months}
 #'   \item{pain.releiver.use}{Percentage of those in an age group who used pain relievers in the past 12 months}
-#'   \item{pain.releiver.frequency}{Median number of times a user in an age group used pain relievers in the past 12 months}\item{n}{n}\item{n}{n}\item{n}{n}\item{n}{n}\item{n}{n}\item{n}{n}\item{n}{n}
+#'   \item{pain.releiver.frequency}{Median number of times a user in an age group used pain relievers in the past 12 months}
 #'   \item{oxycontin.use}{Percentage of those in an age group who used oxycontin in the past 12 months}
 #'   \item{oxycontin.frequency}{Median number of times a user in an age group used oxycontin in the past 12 months}
 #'   \item{tranquilizer.use}{Percentage of those in an age group who used tranquilizer in the past 12 months}
