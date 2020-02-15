@@ -4,7 +4,7 @@ Title: Drug Use by Age
 Version: 0.1.0
 Author: Francesca Radatti
 Maintainer: Francesca Grazia Radatti <francescaradatti97@gmail.com>
-Description: Drug Use Package for xx.
+Description: Drug Use Package for analysis and visualization.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true

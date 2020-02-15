@@ -60,13 +60,6 @@ The command `?reg_analysis` provides the documentantion about the function and i
 
 
 
-## Licence 
-
-```R
-GPL-3
-```
-
-
 ## Author 
 
 Francesca Grazia Radatti 
