@@ -1,10 +1,10 @@
 #' @title reg_analysis function
 #' 
-#' @description Data Analisys: linear regression model to evaluate the "tranquilizer use" variation due to the "alcohol use" variation.
+#' @description Data Analisys: linear regression model to evaluate the "tranquilizer use" variation due to the "alcohol use" change.
 #'
 #' It's necessary to import other packages if the are not installed.
 #' 
-#' The output shows some significant estimates that allow us to understand how the model is significative.
+#' The output shows some significant estimates which allow us to understand how the model significative is.
 #' 
 #' 
 #' 

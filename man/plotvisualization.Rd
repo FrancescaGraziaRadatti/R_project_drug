@@ -10,8 +10,8 @@ plotvisualization()
 Pie chart
 }
 \description{
-The "plotvisualization" function is a smart way to represent how the drug use is dilueted by crack frequency using "plotly" package.
-It's necessary to import other packages(for istance "magrittr")
+The plotvisualization function is a smart way to represent how the drug use is dilueted by crack frequency using "plotly" package.
+In order to run this function correctly, other packages are required (for istance "magrittr").
 
 
 The output is a piechart that shows the percentage of the crack frequency across various age groups.
