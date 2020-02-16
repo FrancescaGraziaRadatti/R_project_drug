@@ -41,6 +41,10 @@ Firstly, after installing the package, it's needed to require it in order to run
 require(Progettofgr)
 ```
 
+## Functions description
+
+In order to run the functions correctly, other packages are required (view "DESCRIPTION" file for details).
+
 ### Plotvisualization
 
 The function `plotvisualization()` provides a pie chart showing the drug use by crack frequency. Typing `?plotvisualization` one can observe the complete description of the function and its arguments. 
